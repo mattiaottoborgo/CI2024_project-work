@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+plotly
+scikit-learn
+nbformat
+kaleido
