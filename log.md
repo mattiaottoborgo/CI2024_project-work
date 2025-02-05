@@ -48,4 +48,4 @@ https://github.com/FedericoPangrazi/CI2024_lab0
 
 ## Project
 
-Delivered project work date:
+Delivered project work date: 10.02.2025
